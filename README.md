@@ -1,5 +1,3 @@
-# windows-defender-cleaner
-Windows Defender History Cleaner – A batch script to forcibly delete Windows Defender scan history, cache, and quarantine logs. Useful for red team labs, forensics cleanup, and privacy testing.
 # 🧹 Windows Defender History Cleaner
 
 A powerful batch script to **forcibly delete** the entire Windows Defender scan history, cache files, and quarantine records located in `C:\ProgramData\Microsoft\Windows Defender\Scans`.
